@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Asociación española de super-atletas"
+subtitle: Con dos huevos
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
