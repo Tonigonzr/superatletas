@@ -1,5 +1,5 @@
 ---
-title: "Asociación española de super-atletas"
+title: "Asociación española de superatletas"
 subtitle: Con dos huevos
 image: /img/home-jumbotron.jpg
 blurb:
